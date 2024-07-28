@@ -79,5 +79,5 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: Shanmukh Anala
+- **Name**: S.Teja
 - **Email**: [tejasandra5671@gmail.com](mailto:tejasandra5671@gmail.com)
